@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MichaelQuotes</string>
+    <string name="quote1">That\'s what she said.</string>
+    <string name="quote2">Sometimes I\'ll start a sentence and I don\'t even know where it\'s
+        going. I just hope I find it along the way.</string>
+    <string name="quote3">Well, well, well, how the turn tables.</string>
+    <string name="quote4">I\'m not superstitious, but I am a little stitious.</string>
+    <string name="quote5">And I knew exactly what to do. But in a much more real sense, I had no
+        idea what to do.</string>
+    <string name="quote6">I love inside jokes. I hope to be a part of one someday.</string>
+    <string name="quote7">I’m an early bird and I’m a night owl so I’m wise and I have
+        worms.</string>
+    <string name="quote8">Would I rather be feared or loved? Easy. Both. I want people to be
+        afraid of how much they love me.</string>
+    <string name="quote9">I am Beyonce, always.</string>
+    <string name="quote10">You know what they say. Fool me once, strike one, but fool me twice
+        … strike three.</string>
+</resources>
